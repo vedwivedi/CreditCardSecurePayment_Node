@@ -1,0 +1,3 @@
+Created API Key SKe44dce8304afaaa7d5ac1ef5fad6d4ef and stored the secret in the Windows credential vault. See: https://www.twilio.com/console/runtime/api-keys/SKe44dce8304afaaa7d5ac1ef5fad6d4ef
+twilio-cli configuration saved to "C:\Users\Admin\.twilio-cli\config.json"
+Saved Credit-Card-SecurePayment-Node.
